@@ -1,0 +1,9 @@
+# 忽略敏感配置和缓存
+*.env
+*.key
+*.secret
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.clawhub/
