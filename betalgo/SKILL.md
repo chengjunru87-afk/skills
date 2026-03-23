@@ -1,3 +1,16 @@
+---
+name: betalgo
+description: |
+  足球/篮球投注算法大师。自动监控专业博彩分析网站（FootyAccums、covers.com、docsports.com、dimers.com等），抓取最新盘口推荐，分析推理逻辑，结合 Kelly 仓位和期望值计算，输出结构化投注报告。
+
+  Use when: 用户询问足球投注、篮球投注、今日盘口推荐、赔率分析、NBA picks、足球 tips 等。
+  Don't use when: 用户只问比赛结果、积分榜、球员数据（用 football-data skill）；纯赔率数学计算（用 betting skill）。
+license: MIT
+metadata:
+  author: chengjunru87-afk
+  version: "1.1.0"
+---
+
 # BetAlgo Skill — 博彩算法大师 🎯
 
 ## 触发条件
